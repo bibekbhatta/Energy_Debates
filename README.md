@@ -14,7 +14,7 @@ Files of Ireland, and additional files will be added soon
 
 Please feel free to use the data with the following citation:  
 Bhatta, B. (2023). SDG7 and the systematic downplaying of affordability in the discourse on energy prices. Availalbe at:   
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4631599![image](https://github.com/bibekbhatta/Energy_Debates/assets/30386554/9794ee05-a398-40ca-b3af-efc0919c63bf)
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4631599  
 
 
 last updated 09 Dec 2023
