@@ -12,11 +12,12 @@ USA_clean_vs_afford_sent_daily.csv - contains daily frequency count of number of
 
 Files of Ireland, and additional files will be added soon
 
-Please feel free to use the data with the following citation:  
+Please feel free to use the data with the following citation: 
+  
 Bhatta, B. (2023). SDG7 and the systematic downplaying of affordability in the discourse on energy prices. Availalbe at:   
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4631599  
 
 
-last updated 09 Dec 2023
+last updated 18 Dec 2023
 
 
