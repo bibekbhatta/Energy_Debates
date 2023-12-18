@@ -11,7 +11,7 @@ US_greenjob_250_word_freq.csv - this file contains the frequency of words and tw
 
 USA_clean_vs_afford_sent_daily.csv - contains daily frequency count of number of times "clean + energy or electricity or power or fuel" is used in the same sentence in US congressional hearings along with similar count for "affordable + energy or electricity or power or fuel"; 
 
-Ireland
+Ireland:    
 Ireland_clean_vs_afford_sent_daily.csv - contains daily frequency count of number of times "clean + energy or electricity or power or fuel" is used in the same sentence in Irish parliament (Dale) along with similar count for "affordable + energy or electricity or power or fuel"
 
   
