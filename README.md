@@ -21,6 +21,6 @@ Bhatta, B. (2023). SDG7 and the systematic downplaying of affordability in the d
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4631599  
 
 
-last updated 18 Dec 2023
+last updated 26 March 2024
 
 
