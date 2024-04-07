@@ -14,13 +14,16 @@ USA_clean_vs_afford_sent_daily.csv - contains daily frequency count of number of
 Ireland:    
 Ireland_clean_vs_afford_sent_daily.csv - contains daily frequency count of number of times "clean + energy or electricity or power or fuel" is used in the same sentence in Irish parliament (Dale) along with similar count for "affordable + energy or electricity or power or fuel"
 
-  
+Australia:    
+Aus_clean_vs_afford_sent_daily.csv - contains daily frequency count of number of times "clean + energy or electricity or power or fuel" is used in the same sentence in Australian parliament along with similar count for "affordable + energy or electricity or power or fuel"
+
+
 Please feel free to use the data with the following citation: 
   
 Bhatta, B. (2023). SDG7 and the systematic downplaying of affordability in the discourse on energy prices. Availalbe at:   
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4631599  
 
 
-last updated 26 March 2024
+last updated 07 April 2024
 
 
